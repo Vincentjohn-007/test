@@ -1,7 +1,7 @@
 echo "check the internet ip"
 
-ipconfig
+lsblk
 
 echo "-------------"
 
-echo "IAM BAD BAD BOY SARAVANA"
+

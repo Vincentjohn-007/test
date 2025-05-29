@@ -1,7 +1,1 @@
-echo "check the internet ip"
-
-lsblk
-
-echo "-------------"
-
-
+cat /etc/system-release
